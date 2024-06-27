@@ -1,9 +1,12 @@
 # About Me
-Hello! I'm a creative professional who loves working collaboratively to come up with innovative solutions. Throughout my academic journey, I've consistently achieved high distinctions in my studies, including my master’s and bachelor’s theses. My experience spans both academic and professional settings, providing me with a solid grounding in data analysis and machine learning. I'm passionate about using data to uncover insights and foster progress.
+Hello! I am David, a PhD student at the University of Amsterdam in the [Intelligent Data Engineering Lab](https://indelab.org), focusing on AI-based solutions for data quality. Throughout my academic journey, I've consistently achieved high distinctions in my studies, including my master’s and bachelor’s theses. My experience spans both academic and professional settings, providing me with a solid grounding in data analysis and machine learning. I'm passionate about using data to uncover insights and foster progress.
 
 Aside from my main focus, I'm also intrigued by the intersection of data science and biology, exploring bioinformatics whenever I can. When I'm not delving into data, you might find me making music, traveling, or staying active with sports.
 
 ## Education
+**PhD student, University of Heidelberg (2024-Current)**
+- Supervised by Prof. Paul Groth and Dr. Hazar Harmouch
+
 **MSc Scientific Computing, University of Heidelberg (2021-2023)**
 - Thesis "Automated Extraction of Drug Analysis and Discovery Networks" graded 1.0  (Supervisor: Prof. Michael Gertz)
 
